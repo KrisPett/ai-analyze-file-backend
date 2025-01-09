@@ -1,0 +1,34 @@
+.idea
+
+# Python
+__pycache__*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.python-version
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# PyCharm (if using PyCharm alongside VSCode)
+.idea/
+
+# Virtual Environment
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python distribution folder
+dist/
+build/
+*.egg-info/
+
+# Other temporary files
+*.log
