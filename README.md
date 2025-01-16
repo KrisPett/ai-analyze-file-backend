@@ -12,3 +12,8 @@ http://127.0.0.1:8000
 http://127.0.0.1:8000/docs
 
 http://127.0.0.1:8000/redoc
+
+```
+curl http://127.0.0.1:8000/analyze-file/...
+Invoke-WebRequest -Uri "http://localhost:8000/analyze-file/..." -Method Post
+```

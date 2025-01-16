@@ -1,5 +1,5 @@
 from fastapi import APIRouter, UploadFile, File
-from api.services.openai_service import generate_chat, upload_file, list_files, retrieve_file_info, delete_file
+from api.services.openai_service import generate_chat, upload_file, list_files, retrieve_file_info, delete_file, analyze_file
 
 router = APIRouter()
 
@@ -16,6 +16,13 @@ def upload(file: UploadFile = File(...)):
         file_object.write(file.file.read())
     response = upload_file(file_location)
     return response
+
+
+@router.post("/analyze-file/{file_id}")
+def analyze(file_id: str):
+    print(file_id)
+    # response = analyze_file(file_id)
+    return file_id
 
 
 @router.get("/files")
