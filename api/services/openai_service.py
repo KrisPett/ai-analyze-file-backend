@@ -44,12 +44,12 @@ def generate_chat():
 
 
 def analyze_file(file_id):
-    response = client.answers.create(
+    response = client.chat.completions.create(
         model="gpt-4o-mini",
-        file=file_id,
-        question="Analyze the content of the file.",
-        examples_context="In 2017, U.S. life expectancy was 78.6 years.",
-        examples=[["What is human life expectancy in the United States?", "78 years."]],
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": f"Analyze the content of the file with ID {file_id}."}
+        ],
         max_tokens=100
     )
     return response
