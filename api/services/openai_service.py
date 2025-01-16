@@ -9,6 +9,25 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def upload_file(file_path):
     with open(file_path, 'rb') as file:
         response = client.files.create(file=file, purpose='user_data')
+       
+    return response
+
+def list_files():
+    response = client.files.list()
+    return response
+
+# def download_file(file_id, destination_path):
+#     response = client.files.retrieve(file_id)
+#     with open(destination_path, 'wb') as file:
+#         file.write(response.content)
+#     return destination_path
+
+def retrieve_file_info(file_id):
+    response = client.files.retrieve(file_id)
+    return response
+
+def delete_file(file_id):
+    response = client.files.delete(file_id)
     return response
 
 # def analyze_file(file_id):
