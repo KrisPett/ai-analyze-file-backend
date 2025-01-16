@@ -43,12 +43,15 @@ def generate_chat():
     return completion.choices[0].message
 
 
-def analyze_file(file_id):
+def analyze_file(file_path):
+    with open(file_path, 'r') as file:
+        file_content = file.read()
+    
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Analyze the content of the file with ID {file_id}."}
+            {"role": "user", "content": f"Analyze the following content:\n\n{file_content}"}
         ],
         max_tokens=100
     )

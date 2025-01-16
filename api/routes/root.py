@@ -20,8 +20,8 @@ def upload(file: UploadFile = File(...)):
 
 @router.post("/analyze-file/{file_id}")
 def analyze(file_id: str):
-    print(file_id)
-    response = analyze_file(file_id)
+    file_location = f"/tmp/{file_id}"
+    response = analyze_file(file_location)
     return response
 
 
