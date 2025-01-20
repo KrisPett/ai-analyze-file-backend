@@ -1,5 +1,6 @@
-from fastapi import APIRouter, UploadFile, File
-from api.services.openai_service import generate_chat, upload_file, list_files, retrieve_file_info, delete_file, analyze_file
+from fastapi import APIRouter, UploadFile, File, Query
+from fastapi.responses import FileResponse
+from api.services.openai_service import generate_chat, upload_file, list_files, retrieve_file_info, delete_file, analyze_file, generate_tts
 
 router = APIRouter()
 
@@ -41,3 +42,9 @@ def get_file_info(file_id: str):
 def remove_file(file_id: str):
     response = delete_file(file_id)
     return response
+
+# curl "http://localhost:8000/tts?input_text=The true size of India.&file_name=speech_india.mp3"
+@router.get("/tts")
+def text_to_speech(input_text: str = Query(""), file_name: str = Query("")):
+    speech_file_path = generate_tts(file_name=file_name, input_text=input_text)
+    return FileResponse(speech_file_path)

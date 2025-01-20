@@ -33,3 +33,5 @@ build/
 # Other temporary files
 *.log
 .env
+
+speech*

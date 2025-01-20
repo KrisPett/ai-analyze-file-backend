@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
+from pathlib import Path
 
 load_dotenv()
 
@@ -46,7 +47,7 @@ def generate_chat():
 def analyze_file(file_path):
     with open(file_path, 'r') as file:
         file_content = file.read()
-    
+
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
@@ -56,3 +57,15 @@ def analyze_file(file_path):
         max_tokens=100
     )
     return response
+
+
+def generate_tts(input_text="The true size of India.", file_name="speech.mp3"):
+    speech_file_path = Path(__file__).parent / file_name
+    response = client.audio.speech.create(
+        model="tts-1-hd",
+        voice="ash",
+        input=input_text,
+        speed=.80
+    )
+    response.stream_to_file(speech_file_path)
+    return speech_file_path
