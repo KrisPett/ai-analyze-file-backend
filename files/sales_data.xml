@@ -1,0 +1,1102 @@
+<SalesData>
+    <Sale>
+        <Order_ID>ORD-0001</Order_ID>
+        <Product_Name>Camera</Product_Name>
+        <Product_SKU>SKU-5735</Product_SKU>
+        <Quantity_Sold>34</Quantity_Sold>
+        <Price>194.03</Price>
+        <Total_Revenue>6597.02</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-05-31</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0002</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-5664</Product_SKU>
+        <Quantity_Sold>8</Quantity_Sold>
+        <Price>549.88</Price>
+        <Total_Revenue>4399.04</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-01-02</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0003</Order_ID>
+        <Product_Name>Printer</Product_Name>
+        <Product_SKU>SKU-3727</Product_SKU>
+        <Quantity_Sold>20</Quantity_Sold>
+        <Price>899.67</Price>
+        <Total_Revenue>17993.4</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-05-02</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0004</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-4070</Product_SKU>
+        <Quantity_Sold>36</Quantity_Sold>
+        <Price>80.19</Price>
+        <Total_Revenue>2886.84</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2024-04-13</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0005</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-2139</Product_SKU>
+        <Quantity_Sold>2</Quantity_Sold>
+        <Price>459.89</Price>
+        <Total_Revenue>919.78</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2024-01-10</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0006</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-4181</Product_SKU>
+        <Quantity_Sold>29</Quantity_Sold>
+        <Price>943.87</Price>
+        <Total_Revenue>27372.23</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2024-09-25</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0007</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-6957</Product_SKU>
+        <Quantity_Sold>23</Quantity_Sold>
+        <Price>265.81</Price>
+        <Total_Revenue>6113.63</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2024-06-06</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0008</Order_ID>
+        <Product_Name>Printer</Product_Name>
+        <Product_SKU>SKU-7365</Product_SKU>
+        <Quantity_Sold>20</Quantity_Sold>
+        <Price>461.99</Price>
+        <Total_Revenue>9239.8</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2024-11-16</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0009</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-2216</Product_SKU>
+        <Quantity_Sold>19</Quantity_Sold>
+        <Price>206.35</Price>
+        <Total_Revenue>3920.65</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-04-16</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0010</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-7845</Product_SKU>
+        <Quantity_Sold>30</Quantity_Sold>
+        <Price>972.18</Price>
+        <Total_Revenue>29165.4</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-03-27</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0011</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-9819</Product_SKU>
+        <Quantity_Sold>27</Quantity_Sold>
+        <Price>803.9</Price>
+        <Total_Revenue>21705.3</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2023-04-22</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0012</Order_ID>
+        <Product_Name>Monitor</Product_Name>
+        <Product_SKU>SKU-5260</Product_SKU>
+        <Quantity_Sold>26</Quantity_Sold>
+        <Price>866.1</Price>
+        <Total_Revenue>22518.6</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-07-30</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0013</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-8121</Product_SKU>
+        <Quantity_Sold>37</Quantity_Sold>
+        <Price>870.78</Price>
+        <Total_Revenue>32218.86</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-04-22</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0014</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-9135</Product_SKU>
+        <Quantity_Sold>1</Quantity_Sold>
+        <Price>53.53</Price>
+        <Total_Revenue>53.53</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-12-14</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0015</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-6399</Product_SKU>
+        <Quantity_Sold>30</Quantity_Sold>
+        <Price>227.17</Price>
+        <Total_Revenue>6815.1</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-05-03</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0016</Order_ID>
+        <Product_Name>Printer</Product_Name>
+        <Product_SKU>SKU-7149</Product_SKU>
+        <Quantity_Sold>49</Quantity_Sold>
+        <Price>97.87</Price>
+        <Total_Revenue>4795.63</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-05-17</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0017</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-8431</Product_SKU>
+        <Quantity_Sold>9</Quantity_Sold>
+        <Price>115.09</Price>
+        <Total_Revenue>1035.81</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2024-10-30</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0018</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-6712</Product_SKU>
+        <Quantity_Sold>11</Quantity_Sold>
+        <Price>204.82</Price>
+        <Total_Revenue>2253.02</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-06-29</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0019</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-1566</Product_SKU>
+        <Quantity_Sold>4</Quantity_Sold>
+        <Price>694.17</Price>
+        <Total_Revenue>2776.68</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-06-14</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0020</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-8534</Product_SKU>
+        <Quantity_Sold>40</Quantity_Sold>
+        <Price>593.91</Price>
+        <Total_Revenue>23756.4</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-03-14</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0021</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-6197</Product_SKU>
+        <Quantity_Sold>30</Quantity_Sold>
+        <Price>356.92</Price>
+        <Total_Revenue>10707.6</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-07-06</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0022</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-2357</Product_SKU>
+        <Quantity_Sold>22</Quantity_Sold>
+        <Price>500.44</Price>
+        <Total_Revenue>11009.68</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2023-08-19</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0023</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-6527</Product_SKU>
+        <Quantity_Sold>23</Quantity_Sold>
+        <Price>930.91</Price>
+        <Total_Revenue>21410.93</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-09-23</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0024</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-8604</Product_SKU>
+        <Quantity_Sold>32</Quantity_Sold>
+        <Price>828.14</Price>
+        <Total_Revenue>26500.48</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-09-12</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0025</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-5379</Product_SKU>
+        <Quantity_Sold>27</Quantity_Sold>
+        <Price>276.06</Price>
+        <Total_Revenue>7453.62</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-09-26</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0026</Order_ID>
+        <Product_Name>Camera</Product_Name>
+        <Product_SKU>SKU-2650</Product_SKU>
+        <Quantity_Sold>12</Quantity_Sold>
+        <Price>118.52</Price>
+        <Total_Revenue>1422.24</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-07-17</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0027</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-3264</Product_SKU>
+        <Quantity_Sold>38</Quantity_Sold>
+        <Price>346.63</Price>
+        <Total_Revenue>13171.94</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-05-04</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0028</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-1154</Product_SKU>
+        <Quantity_Sold>2</Quantity_Sold>
+        <Price>165.05</Price>
+        <Total_Revenue>330.1</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-06-23</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0029</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-5763</Product_SKU>
+        <Quantity_Sold>35</Quantity_Sold>
+        <Price>919.8</Price>
+        <Total_Revenue>32193.0</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-11-28</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0030</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-6495</Product_SKU>
+        <Quantity_Sold>40</Quantity_Sold>
+        <Price>951.04</Price>
+        <Total_Revenue>38041.6</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-12-17</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0031</Order_ID>
+        <Product_Name>Printer</Product_Name>
+        <Product_SKU>SKU-2341</Product_SKU>
+        <Quantity_Sold>8</Quantity_Sold>
+        <Price>751.24</Price>
+        <Total_Revenue>6009.92</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-04-03</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0032</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-6814</Product_SKU>
+        <Quantity_Sold>31</Quantity_Sold>
+        <Price>148.04</Price>
+        <Total_Revenue>4589.24</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-05-10</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0033</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-6865</Product_SKU>
+        <Quantity_Sold>21</Quantity_Sold>
+        <Price>28.29</Price>
+        <Total_Revenue>594.09</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-12-06</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0034</Order_ID>
+        <Product_Name>Smartwatch</Product_Name>
+        <Product_SKU>SKU-2605</Product_SKU>
+        <Quantity_Sold>31</Quantity_Sold>
+        <Price>85.8</Price>
+        <Total_Revenue>2659.8</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-06-12</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0035</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-1280</Product_SKU>
+        <Quantity_Sold>6</Quantity_Sold>
+        <Price>385.82</Price>
+        <Total_Revenue>2314.92</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-12-23</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0036</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-4804</Product_SKU>
+        <Quantity_Sold>44</Quantity_Sold>
+        <Price>346.67</Price>
+        <Total_Revenue>15253.48</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2024-03-22</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0037</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-6744</Product_SKU>
+        <Quantity_Sold>50</Quantity_Sold>
+        <Price>200.27</Price>
+        <Total_Revenue>10013.5</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2024-10-02</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0038</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-3772</Product_SKU>
+        <Quantity_Sold>36</Quantity_Sold>
+        <Price>967.36</Price>
+        <Total_Revenue>34824.96</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-07-06</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0039</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-7127</Product_SKU>
+        <Quantity_Sold>26</Quantity_Sold>
+        <Price>41.07</Price>
+        <Total_Revenue>1067.82</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-01-17</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0040</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-1587</Product_SKU>
+        <Quantity_Sold>6</Quantity_Sold>
+        <Price>800.03</Price>
+        <Total_Revenue>4800.18</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2024-04-20</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0041</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-6294</Product_SKU>
+        <Quantity_Sold>21</Quantity_Sold>
+        <Price>570.67</Price>
+        <Total_Revenue>11984.07</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2024-02-08</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0042</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-5425</Product_SKU>
+        <Quantity_Sold>25</Quantity_Sold>
+        <Price>888.84</Price>
+        <Total_Revenue>22221.0</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2023-08-26</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0043</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-4192</Product_SKU>
+        <Quantity_Sold>14</Quantity_Sold>
+        <Price>105.12</Price>
+        <Total_Revenue>1471.68</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-11-13</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0044</Order_ID>
+        <Product_Name>Camera</Product_Name>
+        <Product_SKU>SKU-7520</Product_SKU>
+        <Quantity_Sold>22</Quantity_Sold>
+        <Price>116.07</Price>
+        <Total_Revenue>2553.54</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2023-05-03</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0045</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-8508</Product_SKU>
+        <Quantity_Sold>24</Quantity_Sold>
+        <Price>789.98</Price>
+        <Total_Revenue>18959.52</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2024-03-25</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0046</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-4022</Product_SKU>
+        <Quantity_Sold>26</Quantity_Sold>
+        <Price>820.76</Price>
+        <Total_Revenue>21339.76</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-09-03</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0047</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-5060</Product_SKU>
+        <Quantity_Sold>12</Quantity_Sold>
+        <Price>402.62</Price>
+        <Total_Revenue>4831.44</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-03-06</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0048</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-2606</Product_SKU>
+        <Quantity_Sold>17</Quantity_Sold>
+        <Price>883.25</Price>
+        <Total_Revenue>15015.25</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-01-12</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0049</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-3498</Product_SKU>
+        <Quantity_Sold>33</Quantity_Sold>
+        <Price>276.48</Price>
+        <Total_Revenue>9123.84</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-05-10</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0050</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-2305</Product_SKU>
+        <Quantity_Sold>47</Quantity_Sold>
+        <Price>78.97</Price>
+        <Total_Revenue>3711.59</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-12-02</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0051</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-7789</Product_SKU>
+        <Quantity_Sold>2</Quantity_Sold>
+        <Price>376.56</Price>
+        <Total_Revenue>753.12</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2023-12-14</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0052</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-2214</Product_SKU>
+        <Quantity_Sold>43</Quantity_Sold>
+        <Price>722.79</Price>
+        <Total_Revenue>31079.97</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-03-10</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0053</Order_ID>
+        <Product_Name>Smartwatch</Product_Name>
+        <Product_SKU>SKU-1602</Product_SKU>
+        <Quantity_Sold>22</Quantity_Sold>
+        <Price>289.68</Price>
+        <Total_Revenue>6372.96</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-02-14</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0054</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-4363</Product_SKU>
+        <Quantity_Sold>29</Quantity_Sold>
+        <Price>629.75</Price>
+        <Total_Revenue>18262.75</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-09-06</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0055</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-8223</Product_SKU>
+        <Quantity_Sold>32</Quantity_Sold>
+        <Price>896.73</Price>
+        <Total_Revenue>28695.36</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-07-05</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0056</Order_ID>
+        <Product_Name>Camera</Product_Name>
+        <Product_SKU>SKU-2138</Product_SKU>
+        <Quantity_Sold>35</Quantity_Sold>
+        <Price>609.64</Price>
+        <Total_Revenue>21337.4</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2023-03-17</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0057</Order_ID>
+        <Product_Name>Smartwatch</Product_Name>
+        <Product_SKU>SKU-2730</Product_SKU>
+        <Quantity_Sold>37</Quantity_Sold>
+        <Price>718.17</Price>
+        <Total_Revenue>26572.29</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2024-04-24</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0058</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-4105</Product_SKU>
+        <Quantity_Sold>34</Quantity_Sold>
+        <Price>63.6</Price>
+        <Total_Revenue>2162.4</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-08-04</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0059</Order_ID>
+        <Product_Name>Monitor</Product_Name>
+        <Product_SKU>SKU-2927</Product_SKU>
+        <Quantity_Sold>36</Quantity_Sold>
+        <Price>121.58</Price>
+        <Total_Revenue>4376.88</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-04-01</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0060</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-4025</Product_SKU>
+        <Quantity_Sold>12</Quantity_Sold>
+        <Price>586.26</Price>
+        <Total_Revenue>7035.12</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-07-31</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0061</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-3664</Product_SKU>
+        <Quantity_Sold>44</Quantity_Sold>
+        <Price>838.69</Price>
+        <Total_Revenue>36902.36</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2024-02-22</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0062</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-4456</Product_SKU>
+        <Quantity_Sold>25</Quantity_Sold>
+        <Price>492.5</Price>
+        <Total_Revenue>12312.5</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-10-03</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0063</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-7479</Product_SKU>
+        <Quantity_Sold>14</Quantity_Sold>
+        <Price>176.9</Price>
+        <Total_Revenue>2476.6</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-07-12</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0064</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-2534</Product_SKU>
+        <Quantity_Sold>43</Quantity_Sold>
+        <Price>514.79</Price>
+        <Total_Revenue>22135.97</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2024-10-16</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0065</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-1958</Product_SKU>
+        <Quantity_Sold>27</Quantity_Sold>
+        <Price>634.5</Price>
+        <Total_Revenue>17131.5</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2024-06-14</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0066</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-5938</Product_SKU>
+        <Quantity_Sold>1</Quantity_Sold>
+        <Price>152.62</Price>
+        <Total_Revenue>152.62</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-03-12</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0067</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-8523</Product_SKU>
+        <Quantity_Sold>26</Quantity_Sold>
+        <Price>251.49</Price>
+        <Total_Revenue>6538.74</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2024-09-30</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0068</Order_ID>
+        <Product_Name>Monitor</Product_Name>
+        <Product_SKU>SKU-5768</Product_SKU>
+        <Quantity_Sold>39</Quantity_Sold>
+        <Price>414.13</Price>
+        <Total_Revenue>16151.07</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-10-18</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0069</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-5552</Product_SKU>
+        <Quantity_Sold>36</Quantity_Sold>
+        <Price>114.29</Price>
+        <Total_Revenue>4114.44</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2024-11-19</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0070</Order_ID>
+        <Product_Name>Printer</Product_Name>
+        <Product_SKU>SKU-8035</Product_SKU>
+        <Quantity_Sold>49</Quantity_Sold>
+        <Price>47.39</Price>
+        <Total_Revenue>2322.11</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-08-03</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0071</Order_ID>
+        <Product_Name>Camera</Product_Name>
+        <Product_SKU>SKU-6514</Product_SKU>
+        <Quantity_Sold>43</Quantity_Sold>
+        <Price>160.57</Price>
+        <Total_Revenue>6904.51</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2024-03-26</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0072</Order_ID>
+        <Product_Name>Smartwatch</Product_Name>
+        <Product_SKU>SKU-1495</Product_SKU>
+        <Quantity_Sold>49</Quantity_Sold>
+        <Price>223.07</Price>
+        <Total_Revenue>10930.43</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2024-06-21</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0073</Order_ID>
+        <Product_Name>Printer</Product_Name>
+        <Product_SKU>SKU-1841</Product_SKU>
+        <Quantity_Sold>24</Quantity_Sold>
+        <Price>482.66</Price>
+        <Total_Revenue>11583.84</Total_Revenue>
+        <Salesperson>Michael Brown</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-09-20</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0074</Order_ID>
+        <Product_Name>Monitor</Product_Name>
+        <Product_SKU>SKU-3869</Product_SKU>
+        <Quantity_Sold>22</Quantity_Sold>
+        <Price>343.46</Price>
+        <Total_Revenue>7556.12</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-01-09</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0075</Order_ID>
+        <Product_Name>Camera</Product_Name>
+        <Product_SKU>SKU-1955</Product_SKU>
+        <Quantity_Sold>16</Quantity_Sold>
+        <Price>808.7</Price>
+        <Total_Revenue>12939.2</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2024-06-22</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0076</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-1572</Product_SKU>
+        <Quantity_Sold>11</Quantity_Sold>
+        <Price>406.06</Price>
+        <Total_Revenue>4466.66</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-03-05</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0077</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-5349</Product_SKU>
+        <Quantity_Sold>30</Quantity_Sold>
+        <Price>423.59</Price>
+        <Total_Revenue>12707.7</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-08-21</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0078</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-6729</Product_SKU>
+        <Quantity_Sold>50</Quantity_Sold>
+        <Price>41.67</Price>
+        <Total_Revenue>2083.5</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-09-17</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0079</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-2628</Product_SKU>
+        <Quantity_Sold>49</Quantity_Sold>
+        <Price>448.05</Price>
+        <Total_Revenue>21954.45</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-12-22</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0080</Order_ID>
+        <Product_Name>Monitor</Product_Name>
+        <Product_SKU>SKU-9399</Product_SKU>
+        <Quantity_Sold>30</Quantity_Sold>
+        <Price>215.59</Price>
+        <Total_Revenue>6467.7</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2024-07-18</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0081</Order_ID>
+        <Product_Name>Smartwatch</Product_Name>
+        <Product_SKU>SKU-7508</Product_SKU>
+        <Quantity_Sold>40</Quantity_Sold>
+        <Price>477.47</Price>
+        <Total_Revenue>19098.8</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2024-02-28</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0082</Order_ID>
+        <Product_Name>Camera</Product_Name>
+        <Product_SKU>SKU-6665</Product_SKU>
+        <Quantity_Sold>22</Quantity_Sold>
+        <Price>643.72</Price>
+        <Total_Revenue>14161.84</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2023-03-19</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0083</Order_ID>
+        <Product_Name>Smartwatch</Product_Name>
+        <Product_SKU>SKU-1748</Product_SKU>
+        <Quantity_Sold>1</Quantity_Sold>
+        <Price>155.89</Price>
+        <Total_Revenue>155.89</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-07-22</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0084</Order_ID>
+        <Product_Name>Laptop</Product_Name>
+        <Product_SKU>SKU-6115</Product_SKU>
+        <Quantity_Sold>7</Quantity_Sold>
+        <Price>428.37</Price>
+        <Total_Revenue>2998.59</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-01-14</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0085</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-5725</Product_SKU>
+        <Quantity_Sold>9</Quantity_Sold>
+        <Price>153.23</Price>
+        <Total_Revenue>1379.07</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-11-18</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0086</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-5373</Product_SKU>
+        <Quantity_Sold>16</Quantity_Sold>
+        <Price>413.08</Price>
+        <Total_Revenue>6609.28</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-04-16</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0087</Order_ID>
+        <Product_Name>Tablet</Product_Name>
+        <Product_SKU>SKU-8147</Product_SKU>
+        <Quantity_Sold>36</Quantity_Sold>
+        <Price>452.96</Price>
+        <Total_Revenue>16306.56</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-08-06</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0088</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-4081</Product_SKU>
+        <Quantity_Sold>8</Quantity_Sold>
+        <Price>109.6</Price>
+        <Total_Revenue>876.8</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-02-21</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0089</Order_ID>
+        <Product_Name>Camera</Product_Name>
+        <Product_SKU>SKU-2270</Product_SKU>
+        <Quantity_Sold>47</Quantity_Sold>
+        <Price>329.08</Price>
+        <Total_Revenue>15466.76</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2023-05-18</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0090</Order_ID>
+        <Product_Name>Smartwatch</Product_Name>
+        <Product_SKU>SKU-3563</Product_SKU>
+        <Quantity_Sold>27</Quantity_Sold>
+        <Price>608.96</Price>
+        <Total_Revenue>16441.92</Total_Revenue>
+        <Salesperson>Emily Davis</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2024-06-02</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0091</Order_ID>
+        <Product_Name>Printer</Product_Name>
+        <Product_SKU>SKU-9448</Product_SKU>
+        <Quantity_Sold>40</Quantity_Sold>
+        <Price>626.11</Price>
+        <Total_Revenue>25044.4</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2024-04-17</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0092</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-4902</Product_SKU>
+        <Quantity_Sold>27</Quantity_Sold>
+        <Price>866.72</Price>
+        <Total_Revenue>23401.44</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2024-06-21</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0093</Order_ID>
+        <Product_Name>Smartwatch</Product_Name>
+        <Product_SKU>SKU-4560</Product_SKU>
+        <Quantity_Sold>3</Quantity_Sold>
+        <Price>630.44</Price>
+        <Total_Revenue>1891.32</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Europe</Region>
+        <Date_of_Sale>2024-10-23</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0094</Order_ID>
+        <Product_Name>Monitor</Product_Name>
+        <Product_SKU>SKU-3558</Product_SKU>
+        <Quantity_Sold>15</Quantity_Sold>
+        <Price>863.68</Price>
+        <Total_Revenue>12955.2</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2024-07-02</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0095</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-3905</Product_SKU>
+        <Quantity_Sold>9</Quantity_Sold>
+        <Price>19.01</Price>
+        <Total_Revenue>171.09</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>South America</Region>
+        <Date_of_Sale>2023-07-12</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0096</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-7679</Product_SKU>
+        <Quantity_Sold>5</Quantity_Sold>
+        <Price>382.61</Price>
+        <Total_Revenue>1913.05</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>North America</Region>
+        <Date_of_Sale>2024-11-08</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0097</Order_ID>
+        <Product_Name>Headphones</Product_Name>
+        <Product_SKU>SKU-3772</Product_SKU>
+        <Quantity_Sold>3</Quantity_Sold>
+        <Price>143.21</Price>
+        <Total_Revenue>429.63</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-08-09</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0098</Order_ID>
+        <Product_Name>Smartphone</Product_Name>
+        <Product_SKU>SKU-4239</Product_SKU>
+        <Quantity_Sold>48</Quantity_Sold>
+        <Price>230.8</Price>
+        <Total_Revenue>11078.4</Total_Revenue>
+        <Salesperson>John Doe</Salesperson>
+        <Region>Asia</Region>
+        <Date_of_Sale>2023-02-07</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0099</Order_ID>
+        <Product_Name>Keyboard</Product_Name>
+        <Product_SKU>SKU-4016</Product_SKU>
+        <Quantity_Sold>20</Quantity_Sold>
+        <Price>10.32</Price>
+        <Total_Revenue>206.4</Total_Revenue>
+        <Salesperson>Jane Smith</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2023-04-01</Date_of_Sale>
+    </Sale>
+    <Sale>
+        <Order_ID>ORD-0100</Order_ID>
+        <Product_Name>Mouse</Product_Name>
+        <Product_SKU>SKU-9618</Product_SKU>
+        <Quantity_Sold>13</Quantity_Sold>
+        <Price>952.04</Price>
+        <Total_Revenue>12376.52</Total_Revenue>
+        <Salesperson>Sophia Wilson</Salesperson>
+        <Region>Australia</Region>
+        <Date_of_Sale>2024-11-01</Date_of_Sale>
+    </Sale>
+</SalesData>

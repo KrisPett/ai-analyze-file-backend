@@ -1,6 +1,7 @@
 from fastapi import APIRouter, UploadFile, File, Form, Query
 from fastapi.responses import FileResponse
 from api.services.openai_service import generate_chat, list_files, retrieve_file_info, delete_file, analyze_file, generate_tts
+import fitz  # Ensure PyMuPDF is installed
 
 router = APIRouter()
 
@@ -12,9 +13,18 @@ def read_root():
 
 @router.post("/analyze-file")
 def upload(file: UploadFile = File(...), additional_text: str = Form(...)):
-    file_content = file.file.read().decode('utf-8')
-    response = analyze_file(file_content=file_content,
-                            text_prompt=additional_text)
+    if file.content_type == "application/pdf":
+        # Extract text from PDF
+        pdf_document = fitz.open(stream=file.file.read(), filetype="pdf")
+        file_content = ""
+        for page_num in range(pdf_document.page_count):
+            page = pdf_document.load_page(page_num)
+            file_content += page.get_text()
+    else:
+        # Handle other file types (e.g., text files)
+        file_content = file.file.read().decode('utf-8')
+    
+    response = analyze_file(file_content=file_content, text_prompt=additional_text)
     return response
 
 

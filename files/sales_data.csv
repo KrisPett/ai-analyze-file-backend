@@ -1,0 +1,101 @@
+Order ID,Product Name,Product SKU,Quantity Sold,Price,Total Revenue,Salesperson,Region,Date of Sale
+ORD-0001,Camera,SKU-5735,34,194.03,6597.02,John Doe,South America,2023-05-31
+ORD-0002,Mouse,SKU-5664,8,549.88,4399.04,Sophia Wilson,South America,2023-01-02
+ORD-0003,Printer,SKU-3727,20,899.67,17993.4,Sophia Wilson,Australia,2023-05-02
+ORD-0004,Laptop,SKU-4070,36,80.19,2886.84,John Doe,South America,2024-04-13
+ORD-0005,Laptop,SKU-2139,2,459.89,919.78,Emily Davis,Europe,2024-01-10
+ORD-0006,Tablet,SKU-4181,29,943.87,27372.23,Jane Smith,Australia,2024-09-25
+ORD-0007,Smartphone,SKU-6957,23,265.81,6113.63,Sophia Wilson,Australia,2024-06-06
+ORD-0008,Printer,SKU-7365,20,461.99,9239.8,Emily Davis,Asia,2024-11-16
+ORD-0009,Keyboard,SKU-2216,19,206.35,3920.65,Michael Brown,North America,2024-04-16
+ORD-0010,Keyboard,SKU-7845,30,972.18,29165.4,Jane Smith,Australia,2023-03-27
+ORD-0011,Tablet,SKU-9819,27,803.9,21705.3,Michael Brown,Asia,2023-04-22
+ORD-0012,Monitor,SKU-5260,26,866.1,22518.6,John Doe,North America,2023-07-30
+ORD-0013,Laptop,SKU-8121,37,870.78,32218.86,Emily Davis,North America,2023-04-22
+ORD-0014,Mouse,SKU-9135,1,53.53,53.53,Jane Smith,Europe,2023-12-14
+ORD-0015,Smartphone,SKU-6399,30,227.17,6815.1,Emily Davis,South America,2023-05-03
+ORD-0016,Printer,SKU-7149,49,97.87,4795.63,Michael Brown,North America,2024-05-17
+ORD-0017,Mouse,SKU-8431,9,115.09,1035.81,Sophia Wilson,South America,2024-10-30
+ORD-0018,Keyboard,SKU-6712,11,204.82,2253.02,Emily Davis,Australia,2023-06-29
+ORD-0019,Tablet,SKU-1566,4,694.17,2776.68,Michael Brown,North America,2024-06-14
+ORD-0020,Tablet,SKU-8534,40,593.91,23756.4,John Doe,South America,2023-03-14
+ORD-0021,Mouse,SKU-6197,30,356.92,10707.6,Michael Brown,South America,2023-07-06
+ORD-0022,Laptop,SKU-2357,22,500.44,11009.68,John Doe,Asia,2023-08-19
+ORD-0023,Smartphone,SKU-6527,23,930.91,21410.93,Michael Brown,Europe,2023-09-23
+ORD-0024,Mouse,SKU-8604,32,828.14,26500.48,Emily Davis,North America,2024-09-12
+ORD-0025,Headphones,SKU-5379,27,276.06,7453.62,Michael Brown,North America,2023-09-26
+ORD-0026,Camera,SKU-2650,12,118.52,1422.24,Emily Davis,North America,2023-07-17
+ORD-0027,Tablet,SKU-3264,38,346.63,13171.94,Sophia Wilson,Europe,2023-05-04
+ORD-0028,Smartphone,SKU-1154,2,165.05,330.1,Michael Brown,Europe,2023-06-23
+ORD-0029,Smartphone,SKU-5763,35,919.8,32193.0,Michael Brown,North America,2023-11-28
+ORD-0030,Mouse,SKU-6495,40,951.04,38041.6,Michael Brown,Australia,2023-12-17
+ORD-0031,Printer,SKU-2341,8,751.24,6009.92,Michael Brown,Europe,2023-04-03
+ORD-0032,Mouse,SKU-6814,31,148.04,4589.24,John Doe,North America,2023-05-10
+ORD-0033,Headphones,SKU-6865,21,28.29,594.09,Sophia Wilson,Australia,2023-12-06
+ORD-0034,Smartwatch,SKU-2605,31,85.8,2659.8,Michael Brown,South America,2023-06-12
+ORD-0035,Laptop,SKU-1280,6,385.82,2314.92,John Doe,Europe,2023-12-23
+ORD-0036,Tablet,SKU-4804,44,346.67,15253.48,Jane Smith,Europe,2024-03-22
+ORD-0037,Headphones,SKU-6744,50,200.27,10013.5,Emily Davis,Europe,2024-10-02
+ORD-0038,Laptop,SKU-3772,36,967.36,34824.96,Emily Davis,North America,2024-07-06
+ORD-0039,Smartphone,SKU-7127,26,41.07,1067.82,Michael Brown,South America,2023-01-17
+ORD-0040,Laptop,SKU-1587,6,800.03,4800.18,Jane Smith,Asia,2024-04-20
+ORD-0041,Mouse,SKU-6294,21,570.67,11984.07,John Doe,Europe,2024-02-08
+ORD-0042,Tablet,SKU-5425,25,888.84,22221.0,Jane Smith,Asia,2023-08-26
+ORD-0043,Mouse,SKU-4192,14,105.12,1471.68,Emily Davis,Europe,2023-11-13
+ORD-0044,Camera,SKU-7520,22,116.07,2553.54,Michael Brown,Asia,2023-05-03
+ORD-0045,Smartphone,SKU-8508,24,789.98,18959.52,Michael Brown,Asia,2024-03-25
+ORD-0046,Laptop,SKU-4022,26,820.76,21339.76,Michael Brown,Europe,2023-09-03
+ORD-0047,Keyboard,SKU-5060,12,402.62,4831.44,Jane Smith,Europe,2023-03-06
+ORD-0048,Keyboard,SKU-2606,17,883.25,15015.25,Jane Smith,North America,2023-01-12
+ORD-0049,Mouse,SKU-3498,33,276.48,9123.84,John Doe,North America,2024-05-10
+ORD-0050,Headphones,SKU-2305,47,78.97,3711.59,Jane Smith,Australia,2023-12-02
+ORD-0051,Tablet,SKU-7789,2,376.56,753.12,Sophia Wilson,Asia,2023-12-14
+ORD-0052,Keyboard,SKU-2214,43,722.79,31079.97,Sophia Wilson,Australia,2023-03-10
+ORD-0053,Smartwatch,SKU-1602,22,289.68,6372.96,Michael Brown,North America,2024-02-14
+ORD-0054,Smartphone,SKU-4363,29,629.75,18262.75,Jane Smith,North America,2024-09-06
+ORD-0055,Keyboard,SKU-8223,32,896.73,28695.36,Jane Smith,Australia,2023-07-05
+ORD-0056,Camera,SKU-2138,35,609.64,21337.4,John Doe,Asia,2023-03-17
+ORD-0057,Smartwatch,SKU-2730,37,718.17,26572.29,Sophia Wilson,Europe,2024-04-24
+ORD-0058,Keyboard,SKU-4105,34,63.6,2162.4,Jane Smith,Europe,2023-08-04
+ORD-0059,Monitor,SKU-2927,36,121.58,4376.88,John Doe,Australia,2023-04-01
+ORD-0060,Mouse,SKU-4025,12,586.26,7035.12,Sophia Wilson,South America,2023-07-31
+ORD-0061,Headphones,SKU-3664,44,838.69,36902.36,Michael Brown,South America,2024-02-22
+ORD-0062,Mouse,SKU-4456,25,492.5,12312.5,John Doe,North America,2023-10-03
+ORD-0063,Mouse,SKU-7479,14,176.9,2476.6,John Doe,Australia,2023-07-12
+ORD-0064,Tablet,SKU-2534,43,514.79,22135.97,Sophia Wilson,Australia,2024-10-16
+ORD-0065,Headphones,SKU-1958,27,634.5,17131.5,Michael Brown,South America,2024-06-14
+ORD-0066,Tablet,SKU-5938,1,152.62,152.62,Sophia Wilson,South America,2023-03-12
+ORD-0067,Mouse,SKU-8523,26,251.49,6538.74,Jane Smith,Europe,2024-09-30
+ORD-0068,Monitor,SKU-5768,39,414.13,16151.07,Jane Smith,North America,2023-10-18
+ORD-0069,Headphones,SKU-5552,36,114.29,4114.44,John Doe,Asia,2024-11-19
+ORD-0070,Printer,SKU-8035,49,47.39,2322.11,John Doe,North America,2024-08-03
+ORD-0071,Camera,SKU-6514,43,160.57,6904.51,John Doe,Asia,2024-03-26
+ORD-0072,Smartwatch,SKU-1495,49,223.07,10930.43,John Doe,Asia,2024-06-21
+ORD-0073,Printer,SKU-1841,24,482.66,11583.84,Michael Brown,North America,2024-09-20
+ORD-0074,Monitor,SKU-3869,22,343.46,7556.12,Jane Smith,North America,2023-01-09
+ORD-0075,Camera,SKU-1955,16,808.7,12939.2,Jane Smith,South America,2024-06-22
+ORD-0076,Keyboard,SKU-1572,11,406.06,4466.66,Jane Smith,North America,2023-03-05
+ORD-0077,Headphones,SKU-5349,30,423.59,12707.7,Jane Smith,Australia,2023-08-21
+ORD-0078,Smartphone,SKU-6729,50,41.67,2083.5,Sophia Wilson,Europe,2023-09-17
+ORD-0079,Headphones,SKU-2628,49,448.05,21954.45,Emily Davis,Europe,2023-12-22
+ORD-0080,Monitor,SKU-9399,30,215.59,6467.7,Sophia Wilson,Asia,2024-07-18
+ORD-0081,Smartwatch,SKU-7508,40,477.47,19098.8,Emily Davis,Europe,2024-02-28
+ORD-0082,Camera,SKU-6665,22,643.72,14161.84,John Doe,Europe,2023-03-19
+ORD-0083,Smartwatch,SKU-1748,1,155.89,155.89,Sophia Wilson,North America,2024-07-22
+ORD-0084,Laptop,SKU-6115,7,428.37,2998.59,Emily Davis,North America,2023-01-14
+ORD-0085,Mouse,SKU-5725,9,153.23,1379.07,Sophia Wilson,North America,2024-11-18
+ORD-0086,Smartphone,SKU-5373,16,413.08,6609.28,Jane Smith,North America,2023-04-16
+ORD-0087,Tablet,SKU-8147,36,452.96,16306.56,Jane Smith,North America,2023-08-06
+ORD-0088,Smartphone,SKU-4081,8,109.6,876.8,Emily Davis,South America,2023-02-21
+ORD-0089,Camera,SKU-2270,47,329.08,15466.76,John Doe,North America,2023-05-18
+ORD-0090,Smartwatch,SKU-3563,27,608.96,16441.92,Emily Davis,Australia,2024-06-02
+ORD-0091,Printer,SKU-9448,40,626.11,25044.4,Jane Smith,Australia,2024-04-17
+ORD-0092,Keyboard,SKU-4902,27,866.72,23401.44,Jane Smith,South America,2024-06-21
+ORD-0093,Smartwatch,SKU-4560,3,630.44,1891.32,Jane Smith,Europe,2024-10-23
+ORD-0094,Monitor,SKU-3558,15,863.68,12955.2,Jane Smith,Asia,2024-07-02
+ORD-0095,Headphones,SKU-3905,9,19.01,171.09,Sophia Wilson,South America,2023-07-12
+ORD-0096,Mouse,SKU-7679,5,382.61,1913.05,Jane Smith,North America,2024-11-08
+ORD-0097,Headphones,SKU-3772,3,143.21,429.63,Sophia Wilson,Australia,2023-08-09
+ORD-0098,Smartphone,SKU-4239,48,230.8,11078.4,John Doe,Asia,2023-02-07
+ORD-0099,Keyboard,SKU-4016,20,10.32,206.4,Jane Smith,Australia,2023-04-01
+ORD-0100,Mouse,SKU-9618,13,952.04,12376.52,Sophia Wilson,Australia,2024-11-01
