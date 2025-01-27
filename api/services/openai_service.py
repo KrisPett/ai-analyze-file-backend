@@ -10,8 +10,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def upload_file(file_path):
     with open(file_path, 'rb') as file:
-        response = client.files.create(file=file, purpose='user_data')
-
+        response = client.files.create(file=file, purpose='fine-tune')
     return response
 
 
@@ -44,26 +43,23 @@ def generate_chat():
     return completion.choices[0].message
 
 
-def analyze_file(file_path):
-    with open(file_path, 'r') as file:
-        file_content = file.read()
-
-    response = client.chat.completions.create(
+def analyze_file(file_content, text_prompt=""):
+    analysis_response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Analyze the following content:\n\n{file_content}"}
+            {"role": "user", "content": f"{text_prompt}\n\nAnalyze the following content:\n\n{file_content}"}
         ],
-        max_tokens=100
+        max_tokens=10000
     )
-    return response
+    return analysis_response
 
 
 def generate_tts(input_text="The true size of India.", file_name="speech.mp3"):
     speech_file_path = Path(__file__).parent / file_name
     response = client.audio.speech.create(
         model="tts-1-hd",
-        voice="ash",
+        voice="nova",
         input=input_text,
         speed=.80
     )
