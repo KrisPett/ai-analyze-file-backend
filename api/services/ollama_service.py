@@ -23,14 +23,19 @@ def generate_chat():
         ],
         stream=True
     )
-    return response
+    for message in response:
+        yield message['message']['content']
 
 
 def analyze_file(file_content, text_prompt=""):
-    response = client.chat(model='llama3.2', messages=[
-        {
-            'role': 'user',
-            'content': 'Why is the sky blue?',
-        },
-    ])
+    response = client.chat(
+        model='deepseek-r1:32b',
+        messages=[
+            {
+                'role': 'user',
+                'content': f"{text_prompt}\n\nAnalyze the following content:\n\n{file_content}",
+            },
+        ],
+    )
     return response
+
