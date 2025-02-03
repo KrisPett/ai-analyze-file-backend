@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from api.routes import root
+from api.routes import openai, ollama
 
 app = FastAPI()
 
@@ -13,4 +13,5 @@ app.add_middleware(
     allow_headers=["*"], 
 )
 
-app.include_router(root.router)
+app.include_router(openai.router)
+app.include_router(ollama.router)
